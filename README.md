@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-- 🔭 Atualmente eu estou estagiando na [Suzano Papel e Celulose](https://www.suzano.com.br/), na área de logística.
+- 🔭 Atualmente eu atuo como analista de TI na [Suzano Papel e Celulose](https://www.suzano.com.br/), no time Digitaltech.
 - 🌱 Estou aprimorando meus conhecimentos em python e dados pela [ADA](https://ada.tech/para-empresas)
 - 👯 Busco trabalhar em machine learning e inteligência artificial, além de projetos relacionados a controle e automação de processos
 - 🤔 Estou aceitando dicas de estudo, livros e/ou projetos para desenvolver as habilidades acima
